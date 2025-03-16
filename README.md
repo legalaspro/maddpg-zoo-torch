@@ -12,9 +12,9 @@ A PyTorch implementation of Multi-Agent Deep Deterministic Policy Gradient (MADD
     <td><b>Predator-Prey<br>(simple_tag_v3)</b></td>
   </tr>
   <tr>
-    <td><img src="outputs/gifs/simple_spread_v3/maddpg_all_episodes.gif" width="280px"></td>
-    <td><img src="outputs/gifs/simple_adversary_v3/maddpg_all_episodes.gif" width="280px"></td>
-    <td><img src="outputs/gifs/simple_tag_v3/MADDPG_all_episodes.gif" width="280px"></td>
+    <td><img src="outputs/gifs/simple_spread_v3/MADDPG_all_episodes.gif" width="260px"></td>
+    <td><img src="outputs/gifs/simple_adversary_v3/MADDPG_all_episodes.gif" width="260px"></td>
+    <td><img src="outputs/gifs/simple_tag_v3/MADDPG_all_episodes.gif" width="260px"></td>
   </tr>
 </table>
 </div>
