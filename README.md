@@ -51,7 +51,8 @@ conda activate maddpg
 ```
 project_root/
 ├── maddpg/                  # Core algorithm package
-│   ├── agent.py             # MADDPG implementation
+│   ├── ddpg.py              # DDPG implementation
+│   ├── maddpg.py            # MADDPG implementation
 │   ├── maddpg_approx.py     # MADDPG-Approx implementation
 │   └── networks.py          # Neural network architectures
 ├── utils/                   # Utilities
